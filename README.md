@@ -26,8 +26,7 @@ cd focuslite
 npm install
 
 # Start the app
-npm run dev
-Then open the local server URL in your browser
+npm run dev and then open the local server URL in your browser
 
 # About
 Created by Michael Christopoulos, a Computer Science student at The University of Auburn.
