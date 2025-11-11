@@ -29,7 +29,6 @@ npm install
 Start the app
 npm run dev
 
-
-💡 About
+About
 Created by **Michael Christopoulos**, a Computer Science student at **Auburn University**
 
