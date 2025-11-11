@@ -1,6 +1,8 @@
 # FocusLite 
 A minimalist productivity app built with **React + TypeScript + Tailwind CSS** that helps you stay focused using simple Pomodoro timers and project tracking.
 
+**Live Demo:** [https://focuslite-coral.vercel.app/]
+
 # Features
 - Customizable focus session length  
 - Create and switch between multiple projects  
