@@ -27,7 +27,7 @@ npm install
 
 # Start the app
 npm run dev
-Then open the local server URL in your browser.
+Then open the local server URL in your browser
 
 # About
 Created by Michael Christopoulos, a Computer Science student at The University of Auburn.
